@@ -1,2 +1,6 @@
 class Turtle{
+public:
+    Turtle(){
+
+    }
 };
